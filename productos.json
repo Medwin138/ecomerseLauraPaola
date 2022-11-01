@@ -1,0 +1,176 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Camisa Tipo Polo",
+            "price": 45000,
+            "image": "https://thumbs.files.fm/thumb_show.php?i=bh4ast7cg&view",
+            "category": "Tpolo"
+        },
+        {
+            "id": 2,
+            "title": "Camisa Clasic Manga larga",
+            "price": 50000,
+            "image": "https://thumbs.files.fm/thumb_show.php?i=pxc25pj7w&view",
+            "category": "CamisaClasic"
+        },
+        {
+            "id": 3,
+            "title": "Camisa Leñadora Manga larga",
+            "price": 50000,
+            "image": "https://thumbs.files.fm/thumb_show.php?i=f8bdgaemg&view",
+            "category": "Leñadora"
+        },
+        {
+            "id": 4,
+            "title": "Camisa Leñadora Manga larga",
+            "price": 50000,
+            "image": "https://thumbs.files.fm/thumb_show.php?i=qnhtaffwa&view",
+            "category": "Leñadora"
+        },
+        {
+            "id": 5,
+            "title": "Camisa Leñadora Manga larga",
+            "price": 50000,
+            "image": "https://thumbs.files.fm/thumb_show.php?i=gj5navqfq&view",
+            "category": "Leñadora"  
+
+        },
+        {
+            "id": 6,
+            "title": "Camisa Clasic Manga larga",
+            "price": 50000,
+            "image": "https://thumbs.files.fm/thumb_show.php?i=gcchu4u8c&view",
+            "category": "CamisaClasic"
+
+        },
+        {
+            "id": 7,
+            "title": "Camisa Leñadora Manga larga",
+            "price": 50000,
+            "image": "https://thumbs.files.fm/thumb_show.php?i=7adb79a4x&view",
+            "category": "Leñadora"
+        },
+        {
+            "id": 8,
+            "title": "Camisa Tipo Polo",
+            "price": 45000,
+            "image": "https://thumbs.files.fm/thumb_show.php?i=esrd2nyxh&view",
+            "category": "Tpolo"
+        },
+        {
+            "id": 9,
+            "title": "Camisa Leñadora Manga larga",
+            "price": 50000,
+            "image": "https://thumbs.files.fm/thumb_show.php?i=38psmdfrf&view",
+            "category": "Leñadora"
+        },
+        {
+            "id": 10,
+            "title": "Camisa Tipo Polo",
+            "price": 45000,
+            "image": "https://thumbs.files.fm/thumb_show.php?i=rajhx6aus&view",
+            "category": "Tpolo"
+        },
+        {
+            "id": 11,
+            "title": "Camisa Leñadora Manga larga",
+            "price": 50000,
+            "image": "https://thumbs.files.fm/thumb_show.php?i=ugakm7brd&view",
+            "category": "Leñadora"
+        },
+        {
+            "id": 12,
+            "title": "Camisa Tipo Polo",
+            "price": 45000,
+            "image": "https://thumbs.files.fm/thumb_show.php?i=y4vzd8uu4&view",
+            "category": "Tpolo"
+        },
+        {
+            "id": 13,
+            "title": "Camisa Tipo Polo",
+            "price": 45000,
+            "image": "https://thumbs.files.fm/thumb_show.php?i=nmdmrx4n5&view",
+            "category": "Tpolo"
+        },
+        {
+            "id": 14,
+            "title": "Camisa Tipo Polo",
+            "price": 45000,
+            "image": "https://thumbs.files.fm/thumb_show.php?i=rsrwuxpvc&view",
+            "category": "Tpolo"
+        },
+        {
+            "id": 15,
+            "title": "Camisa Tipo Polo",
+            "price": 45000,
+            "image": "https://thumbs.files.fm/thumb_show.php?i=ce88d8ajs&view",
+            "category": "Tpolo"
+        },
+        {
+            "id": 16,
+            "title": "Camisa Clasic Manga corta",
+            "price": 48000,
+            "image": "https://thumbs.files.fm/thumb_show.php?i=zxfzd9qty&view",
+            "category": "CamisaClasic"
+        },
+        {
+            "id": 17,
+            "title": "Camisa Clasic Manga corta",
+            "price": 48000,
+            "image": "https://thumbs.files.fm/thumb_show.php?i=e7gs5jut7&view",
+            "category": "CamisaClasic"
+
+        },
+        {
+            "id": 18,
+            "title": "Camisa Clasic Manga corta",
+            "price": 48000,
+            "image": "https://thumbs.files.fm/thumb_show.php?i=ryqnweyd4&view",
+            "category": "CamisaClasic"
+
+        },
+        {
+            "id": 19,
+            "title": "Camisa Clasic Manga corta",
+            "price": 45000,
+            "image": "https://thumbs.files.fm/thumb_show.php?i=5b6jvqxhh&view",
+            "category": "CamisaClasic"
+        },
+        {
+            "id": 20,
+            "title": "Camisa Clasic Manga corta",
+            "price": 45000,
+            "image": "https://thumbs.files.fm/thumb_show.php?i=u97ps72fv&view",
+            "category": "Tpolo"
+        },
+        {
+            "id": 21,
+            "title": "Camisa Clasic Manga corta",
+            "price": 45000,
+            "image": "https://thumbs.files.fm/thumb_show.php?i=x38867c34&view",
+            "category": "Tpolo"
+        },
+        {
+            "id": 22,
+            "title": "Camisa Tipo Polo",
+            "price": 45000,
+            "image": "https://thumbs.files.fm/thumb_show.php?i=vg2fnwxwn&view",
+            "category": "Tpolo"
+        },
+        {
+            "id": 23,
+            "title": "Camisa Tipo Polo",
+            "price": 45000,
+            "image": "https://thumbs.files.fm/thumb_show.php?i=hxvfm6v8g&view",
+            "category": "Tpolo"
+        },
+        {
+            "id": 24,
+            "title": "Camisa Tipo Polo",
+            "price": 45000,
+            "image": "https://thumbs.files.fm/thumb_show.php?i=e469yf6ff&view",
+            "category": "Tpolo"
+        }
+    ]
+}
