@@ -47,6 +47,9 @@ class UI {
 						<p class="description">
 							<span>Aprecie el corte de una camisa elaborada por un sastre, que pareciera que estuviera hecha a la medida, pero sin apretar. Es una camisa que, a pesar de estar más pegada al cuerpo, no te quita libertad ni movimiento, pero que se pone más estrecha en la parte del tronco, ya que lo que se busca es que realce la silueta del hombre.</span>
 						</p>
+						<p class="description">
+							<span>Jean, Bermudas Gran diseño ..Tela Es Strech, Es Decir, Se Estiran</span>
+						</p>
 
 						<div class="bottom">
 							<div class="btn__group">
